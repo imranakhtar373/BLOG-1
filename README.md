@@ -3,7 +3,7 @@ Etihad blog app is an application replicated by [ETIHAD](https://etihad.com/) sh
 
 User of this website will get alla the info about Etihad their recents fleets, their huge construction sites and their history. 
 
-!(Screenshot of rezponsive screen)(/assets/images/PP4-1.png)
+![Screenshot of rezponsive screen](/assets/images/PP4-1.png)
 # main image
 
 
