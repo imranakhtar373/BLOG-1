@@ -6,7 +6,7 @@ User of this website will get alla the info about Etihad their recents fleets, t
 
 ## FEATURES
 + AFTER OPENING THE APP THE FIRST VIEW WE GET OF NAV BAR/ 3 BLOGS and the FOOTER
-+ nav bar consists of blog heading and on the left side Etihad group of construction
++ nav bar consists of blog heading and on the left side ( Etihad group of construction
 + the other nav bars are home register and log in
 + the navigation clearly tells us the user name of the blog and sections to register and log in
 + and the three blogs to open and for reading
