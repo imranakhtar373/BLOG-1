@@ -6,6 +6,7 @@ User of this website will get alla the info about Etihad their recents fleets, t
 ![Screenshot of rezponsive screen](/assets/images/PP4-1.png)
 # main image
 
+![SCREENSHOT OF MAIN IMAGE](/assets/images/PP8.png)
 
 ## FEATURES
 + AFTER OPENING THE APP THE FIRST VIEW WE GET OF NAV BAR/ 3 BLOGS and the FOOTER
@@ -15,7 +16,7 @@ User of this website will get alla the info about Etihad their recents fleets, t
 + and the three blogs to open and for reading
 + the ability to like and do comments
 
-  
+  ![screenshot of nav bar](/assets/images/PP4-2.png)
 
 ## THE MAIN PAGE
 + The main page consists of 3 different blogs to take a look and study
@@ -23,7 +24,7 @@ User of this website will get alla the info about Etihad their recents fleets, t
 + The main page explains itself
 + after selecting one blog you can study and collect informations
 
-  
+  ![SCREENSHOT OF mAIN PAGE](/assets/images/PP8.png)
 
 ## THE BLOG SELCTION
 + after slecting the one blog you can take a look and study
@@ -31,20 +32,21 @@ User of this website will get alla the info about Etihad their recents fleets, t
 + it provides all the general and imoportant info about the etihad
 + it have some options to like and drop a comment
 
-
+    ![screenshot of blog section](/assets/images/PP4-5.png)
 ## The Resgister form 
 + The register is provided to register yourself
 + you can easily register yourself by simply adding name and email
 + the benefit you will get you can like and share your thoughts in comment section
-
+    ![screesnshot of register form](/assets/images/PP4-3.png)
 ## THE LOGIN PAGE
 + After registring yourself you can log in yourself easily 
 + after loggin in you are ready to go
 + you will also get an option of log-out
-
-## THE FOOOTER SITE 
-+ the footer element shows the builder of this web
-+ it also shows you some main online platforms to follow
+    ![SCREENSHOT OF LOGIN FORM](/assets/images/PP4-4.png)
+## Like and Comment
++ This app have a like section under every blog which is only workable when you sign in .
++ comment section (comments that only approved by admin)
+    ![screenshot of like and comment](/assets/images/PP4-6.png)
 
 ## TESTING
 + I tested it on chrome and safari it worked successfuly
@@ -57,7 +59,7 @@ User of this website will get alla the info about Etihad their recents fleets, t
 + the admin site problem
 
 ## lighthouse testing
-
+![screenshot of lighthouse testting](/assets/images/PP7.png)
 
 ## tech and languages used
 + github
